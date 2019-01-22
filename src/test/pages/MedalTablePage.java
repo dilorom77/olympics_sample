@@ -29,6 +29,9 @@ public class MedalTablePage {
     @FindAll(@FindBy (css = ".wikitable.sortable.plainrowheaders.jquery-tablesorter tbody tr"))
     public List<WebElement> medalTableRows;
 
+    @FindBy (css = ".wikitable.sortable.plainrowheaders.jquery-tablesorter thead th:nth-child(2)")
+    public WebElement tableHeaderNOCClickable;
+
     /**
      * Generates the List<WebElement> per the column heading passed as String.
      * Throws NoSuchElementException if no such heading exists in the table.

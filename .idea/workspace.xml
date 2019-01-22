@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82300f28-4715-4c10-9d89-594e228e15bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/pages/Porsche718TrimSelectionPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/pages/PorscheHomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/pages/PorscheVehicleModificationPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/tests/BuyPorscheTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/orgwikipedia2016_Summer_Olympics.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/pages/MedalTablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pages/MedalTablePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/tests/MedalTableTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tests/MedalTableTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/pages/MedalTablePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2567">
-              <caret line="153" column="74" selection-start-line="153" selection-start-column="74" selection-end-line="153" selection-end-column="74" />
+            <state relative-caret-position="204">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/tests/MedalTableTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="485">
+              <caret line="232" column="91" selection-start-line="232" selection-start-column="91" selection-end-line="232" selection-end-column="91" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,8 +59,6 @@
         <option value="$PROJECT_DIR$/src/test/utilities/ConfigurationReader.java" />
         <option value="$PROJECT_DIR$/src/test/utilities/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/pages/MedalTable.java" />
-        <option value="$PROJECT_DIR$/src/test/tests/MedalTableTests.java" />
-        <option value="$PROJECT_DIR$/src/test/pages/MedalTablePage.java" />
         <option value="$PROJECT_DIR$/configuration.properties" />
         <option value="$PROJECT_DIR$/src/test/pages/PorscheSelectionPage.java" />
         <option value="$PROJECT_DIR$/src/test/pages/PorscheHomePage.java" />
@@ -73,6 +67,8 @@
         <option value="$PROJECT_DIR$/src/test/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/utilities/BrowserUtilities.java" />
         <option value="$PROJECT_DIR$/src/test/tests/BuyPorscheTests.java" />
+        <option value="$PROJECT_DIR$/src/test/pages/MedalTablePage.java" />
+        <option value="$PROJECT_DIR$/src/test/tests/MedalTableTests.java" />
       </list>
     </option>
   </component>
@@ -83,10 +79,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4611" />
-    <option name="width" value="1155" />
-    <option name="height" value="1005" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3826" />
+    <option name="width" value="1262" />
+    <option name="height" value="1013" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -137,7 +133,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548170892055" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548190845762" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -318,42 +314,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 17h 53m 16s.xml">
+    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.22 at 10h 24m 55s.xml">
       <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 17h 54m 22s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 10h 26m 20s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 17h 55m 17s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 10h 28m 47s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 17h 56m 47s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 11h 57m 26s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 19h 21m 42s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 11h 58m 06s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 19h 23m 25s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 11h 58m 44s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 19h 42m 59s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 12h 02m 35s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 19h 43m 40s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 12h 03m 43s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 19h 53m 34s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 12h 05m 01s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BuyPorscheTests_goToPorscheModelsStartPage - 2019.01.16 at 19h 54m 56s.xml">
-      <configuration name="BuyPorscheTests.goToPorscheModelsStartPage" configurationId="TestNG" />
+    <history-entry file="MedalTableTests - 2019.01.22 at 15h 34m 04s.xml">
+      <configuration name="MedalTableTests" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3832" y="-8" width="1936" height="1015" extended-state="6" />
+    <frame x="3826" y="0" width="1262" height="1013" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10394456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16222961" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,12 +358,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23922902" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23977272" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3789704" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14399093" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32968238" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32912844" />
@@ -512,16 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/pages/MedalTablePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2567">
-          <caret line="153" column="74" selection-start-line="153" selection-start-column="74" selection-end-line="153" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/tests/BuyPorscheTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -532,10 +518,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/pages/MedalTablePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/tests/MedalTableTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="485">
+          <caret line="232" column="91" selection-start-line="232" selection-start-column="91" selection-end-line="232" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -594,7 +590,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>orgwikipedia2016_Summer_Olympics</last-edited>
+          <last-edited>Olympics_ArrayPractice</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
