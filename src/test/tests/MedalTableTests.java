@@ -41,7 +41,7 @@ public class MedalTableTests extends TestBase {
     @Test (priority = 1)
     public void sortTest() {
         // 1. Go to website https://en.wikipedia.org/wiki/2016_Summer_Olympics#Medal_table
-
+            // accomplished within @BeforeMethod
 
         // 2. Verify that by default the Medal table is sorted by rank.
             // a. Store the elements of Rank column in a String array
