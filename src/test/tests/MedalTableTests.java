@@ -229,7 +229,7 @@ public class MedalTableTests extends TestBase {
         medalTablePage.countriesListByCriteria("Rank", true);
 
         // then, proceed to checking the method
-        System.out.println(medalTablePage.getSumPerMedalCount("Bronze", 18));
+        System.out.println(medalTablePage.getSumPerMedalCount("Gold", 75));
         /* feel free to try the method out on other medals with different request of sum */
     }
 }
